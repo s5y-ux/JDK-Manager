@@ -2,6 +2,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
 
+![Untitled design(4)](https://github.com/s5y-ux/JDK-Manager/assets/59636597/78245031-973c-4958-9a4b-f386f252da00)
 
 A simple Python program to manage Java Development Kit (JDK) versions on your system.
 
@@ -39,9 +40,10 @@ A simple Python program to manage Java Development Kit (JDK) versions on your sy
 
 1.0.0 (Beta)
 
-## Artwork
+## Screen Shots
 
-Artwork displayed in the program is fetched from the `ArtWork.txt` file.
+![Screenshot from 2024-04-20 16-33-42](https://github.com/s5y-ux/JDK-Manager/assets/59636597/a878e2ca-0fc8-48c6-aa66-f954c890b3c9)
+
 
 ---
 
