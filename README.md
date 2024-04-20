@@ -47,4 +47,4 @@ A simple Python program to manage Java Development Kit (JDK) versions on your sy
 
 ---
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/s5y-ux/JDK-Manager/blob/main/LICENSE) file for details.
